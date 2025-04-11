@@ -1,4 +1,4 @@
-# predictive_maintenance_ML
+# Predictive_Maintenance_ML
 ML-based predictive maintenance model for chemical plant equipment.
 # Predictive Maintenance for Chemical Plants
 
